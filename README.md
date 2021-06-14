@@ -23,7 +23,7 @@ When sending the project for correction you must not have a main function, you s
 
 Moulinette will have its own main function that calls your GNL function in a loop.
 
-## contact
+## Contact
 
 For any questions regarding my project email me at: Nuno_c11@hotmail.com
 
