@@ -4,6 +4,8 @@ The aim of this project is to code a function that returns a line ending with a 
 
 The biggest challenge of this project is to make it work with any given BUFFER_SIZE defined during compilation time with the  -D flag.
 
+All code is written in accordance to the norminette version running at the time of project completion.
+
 ## How to use it
 
 Both the normal and bonus functions work the same, so it doesn't matter if you compile the _bonus.c functions or .c functions.
